@@ -1,0 +1,12 @@
+name: Chaos
+version: ${project.version}
+main: Heathrxw.Xenon.ChaosMod.Chaos
+api-version: 1.16
+description: Fun with random Minecraft events.
+author: MythicHunter758
+commands:
+  chaos:
+    description: Chaos base command.
+permissions:
+  chaos.use:
+    description: Able to use all the commands in the chaos plugin.
