@@ -12,6 +12,15 @@ public class AnvilEvent extends ChaosEvent {
 
         if(target != null) {
             target.getLocation().add(0, 12, 0).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(0, 12, 1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(1, 12, 0).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(1, 12, 1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(1, 12, -1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(0, 12, -1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(-1, 12, -1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(1, 12, 1).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(-1, 12, 0).getBlock().setType(Material.ANVIL);
+            target.getLocation().add(-1, 12, 1).getBlock().setType(Material.ANVIL);
         }
     }
 
