@@ -13,6 +13,24 @@ public class DiamondEvent extends ChaosEvent {
 
         if(target != null) {
             target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+            target.getInventory().addItem(new ItemStack(Material.DIAMOND));
+
         }
     }
 
