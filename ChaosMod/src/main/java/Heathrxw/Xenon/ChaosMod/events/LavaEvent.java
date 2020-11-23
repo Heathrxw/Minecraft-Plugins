@@ -11,7 +11,16 @@ public class LavaEvent extends ChaosEvent {
         Player target = (Bukkit.getServer().getPlayer(username));
 
         if(target !=null) {
-            target.getLocation().getBlock().setType(Material.LAVA);
+            target.getLocation().add(0, 0, 0).getBlock().setType(Material.LAVA);
+            target.getLocation().add(0, 0, 1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(1, 0, 0).getBlock().setType(Material.LAVA);
+            target.getLocation().add(1, 0, 1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(1, 0, -1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(0, 0, -1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(-1, 0, -1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(1, 0, 1).getBlock().setType(Material.LAVA);
+            target.getLocation().add(-1, 0, 0).getBlock().setType(Material.LAVA);
+            target.getLocation().add(-1, 0, 1).getBlock().setType(Material.LAVA);
         }
     }
 
