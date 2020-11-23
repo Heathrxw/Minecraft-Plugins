@@ -13,6 +13,27 @@ public class GoldEvent extends ChaosEvent {
 
         if(target != null) {
             target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.GOLD_INGOT));
+
+
         }
     }
 
