@@ -15,7 +15,7 @@ public class IronToolEvent extends ChaosEvent {
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_INGOT, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_HELMET, 1));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_CHESTPLATE, 1));
-            target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_LEGGINGS, 16));
+            target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_LEGGINGS, 1));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_PICKAXE, 1));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_BOOTS, 1));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.IRON_SWORD, 1));
