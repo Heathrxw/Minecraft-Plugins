@@ -13,6 +13,26 @@ public class IronEvent extends ChaosEvent {
 
         if(target != null) {
             target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+            target.getInventory().addItem(new ItemStack(Material.IRON_INGOT));
+
         }
     }
 
