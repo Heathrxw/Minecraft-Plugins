@@ -21,11 +21,31 @@ public class CarpetBomb extends ChaosEvent {
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
+            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.PRIMED_TNT);
 
         }
     }
 
     public String getName() {
-        return "Boom!";
+        return "Carpet Bomb!";
     }
 }
