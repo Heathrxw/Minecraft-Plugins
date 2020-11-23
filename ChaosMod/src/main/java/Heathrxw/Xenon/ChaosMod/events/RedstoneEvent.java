@@ -17,7 +17,6 @@ public class RedstoneEvent extends ChaosEvent {
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.REDSTONE_BLOCK, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.REDSTONE_LAMP, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.REDSTONE_ORE, 16));
-            target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.REDSTONE_WALL_TORCH, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.REDSTONE_WIRE, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.DISPENSER, 16));
             target.getWorld().dropItemNaturally(target.getLocation(), new ItemStack(Material.MINECART, 16));
