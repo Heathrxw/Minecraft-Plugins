@@ -16,6 +16,6 @@ public class EnderdragonEvent extends ChaosEvent {
     }
 
     public String getName() {
-        return "Aw man.";
+        return "Enderdragon";
     }
 }
