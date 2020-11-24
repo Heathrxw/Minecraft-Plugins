@@ -125,6 +125,6 @@ public class Apocalypse2 extends ChaosEvent {
     }
 
     public String getName() {
-        return "Aw man.";
+        return "Apocalypse";
     }
 }
