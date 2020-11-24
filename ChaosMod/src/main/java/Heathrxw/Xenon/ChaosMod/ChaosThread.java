@@ -21,6 +21,9 @@ public class ChaosThread implements Runnable {
 
     private ChaosEvent[] chaosEvent = {
             new Nuclear(),
+            new Cobweb(),
+            new CobwebTrap(),
+            new VoidFall(),
             new CarpetBomb(),
             new Heaven(),
             new LevitateEvent(),
@@ -150,7 +153,7 @@ public class ChaosThread implements Runnable {
                     }.runTask(plugin);
                 });
                 if(spoilers) {
-                    Bukkit.broadcastMessage(ChatColor.GREEN + "Chaos: " + currentChaosEvent.getName());
+                    Bukkit.broadcastMessage(ChatColor.BLUE + "Effect: " + currentChaosEvent.getName());
                 }
 
                 // Wait
