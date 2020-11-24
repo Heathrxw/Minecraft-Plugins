@@ -9,4 +9,4 @@ commands:
     description: Chaos base command.
 permissions:
   chaos.use:
-    description: Able to use all the commands in the chaos plugin.
+    description: Use all the commands
