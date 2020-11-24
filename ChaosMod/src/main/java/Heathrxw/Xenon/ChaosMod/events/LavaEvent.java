@@ -25,6 +25,6 @@ public class LavaEvent extends ChaosEvent {
     }
 
     public String getName() {
-        return "Burn";
+        return "Lava";
     }
 }
