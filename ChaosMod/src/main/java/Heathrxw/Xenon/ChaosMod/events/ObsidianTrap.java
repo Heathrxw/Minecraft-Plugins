@@ -53,6 +53,6 @@ public class ObsidianTrap extends ChaosEvent {
     }
 
     public String getName() {
-        return "Burn";
+        return "Obsidian Trap";
     }
 }
