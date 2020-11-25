@@ -15,12 +15,6 @@ public class SoulGame extends ChaosEvent {
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.WITHER);
         }
     }
 
