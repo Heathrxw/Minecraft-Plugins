@@ -16,11 +16,6 @@ public class TheEnd extends ChaosEvent {
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.ENDER_DRAGON);
         }
     }
 
