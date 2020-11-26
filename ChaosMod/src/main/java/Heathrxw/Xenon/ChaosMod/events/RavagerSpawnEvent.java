@@ -15,8 +15,6 @@ public class RavagerSpawnEvent extends ChaosEvent {
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.RAVAGER);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.RAVAGER);
             target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.RAVAGER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.RAVAGER);
-            target.getWorld().spawnEntity(target.getLocation().add(0, 3, 0), EntityType.RAVAGER);
 
         }
     }
