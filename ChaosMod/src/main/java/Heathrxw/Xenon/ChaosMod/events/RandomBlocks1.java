@@ -30,6 +30,6 @@ public class RandomBlocks1 extends ChaosEvent {
     }
 
     public String getName() {
-        return "Bedrock Trap";
+        return "Random Blocks";
     }
 }

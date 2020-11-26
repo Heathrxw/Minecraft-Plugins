@@ -28,6 +28,6 @@ public class PermanentTrip extends ChaosEvent {
     }
 
     public String getName() {
-        return "Permanent Armor Trip";
+        return "Permanent Armor Drop";
     }
 }
