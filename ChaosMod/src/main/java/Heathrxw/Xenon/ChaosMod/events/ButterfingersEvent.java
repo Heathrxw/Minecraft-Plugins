@@ -3,7 +3,6 @@ package Heathrxw.Xenon.ChaosMod.events;
 import Heathrxw.Xenon.ChaosMod.Chaos;
 import Heathrxw.Xenon.ChaosMod.ChaosEvent;
 import org.bukkit.Bukkit;
-import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.entity.Item;
 import org.bukkit.entity.Player;
@@ -25,6 +24,6 @@ public class ButterfingersEvent extends ChaosEvent {
     }
 
     public String getName() {
-        return "Butterfingers";
+        return "Ya got no main item bruv";
     }
 }
